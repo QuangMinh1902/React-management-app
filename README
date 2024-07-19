@@ -1,0 +1,4 @@
+### Les Hooks utilisés dans le projet 
+ - [useImperativeHandle](https://react.dev/reference/react/useImperativeHandle)
+ - [createPortal](https://react.dev/reference/react-dom/createPortal)
+ - [forwardRef](https://react.dev/reference/react/forwardRef)
